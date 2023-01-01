@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "pixelmon:lure_rock_strong"
+        },
+        {
+            "item": "pixelmon:repel"
+        }
+    ],
+    "result": {
+        "item": "pixelmonrepels:repel_rock_strong"
+    }
+}

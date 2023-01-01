@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer1": "pixelmonrepels:items/repel_gold",
+    "layer0": "pixelmonrepels:items/repel_back"
+  }
+}

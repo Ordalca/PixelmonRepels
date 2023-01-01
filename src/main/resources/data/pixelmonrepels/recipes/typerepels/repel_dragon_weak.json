@@ -1,0 +1,15 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "pixelmon:lure_dragon_weak"
+        },
+        {
+            "item": "pixelmon:repel"
+        }
+    ],
+    "result": {
+        "item": "pixelmonrepels:repel_dragon_weak"
+    }
+}
